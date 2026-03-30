@@ -1,0 +1,28 @@
+# Environment variables (NEVER push secrets)
+.env
+
+# Python cache files
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Build / temp files
+dist/
+build/
+*.egg-info/
