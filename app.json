@@ -1,0 +1,21 @@
+{
+  "name": "summarizer-agent",
+  "env": {
+    "GOOGLE_CLOUD_PROJECT": {
+      "description": "Your GCP Project ID",
+      "required": true
+    },
+    "GOOGLE_CLOUD_LOCATION": {
+      "description": "Region (e.g. us-central1)",
+      "value": "us-central1",
+      "required": true
+    },
+    "GOOGLE_GENAI_USE_VERTEXAI": {
+      "value": "TRUE",
+      "required": true
+    }
+  },
+  "options": {
+    "allow-unauthenticated": true
+  }
+}
