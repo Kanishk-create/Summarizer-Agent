@@ -1,4 +1,8 @@
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/Kanishk-create/summarizer-agent)
+# 📝 AI Text Summarizer Agent (Cloud Run + Gemini)
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/Kanishk-create/Summarizer-Agent)
+
+🚀 A production-ready AI agent that summarizes text and analyzes sentiment using Google ADK and Gemini 2.0 Flash — deployed on Cloud Run.
 
 # 📝 Text Summarization Agent — ADK + Gemini on Cloud Run
 
